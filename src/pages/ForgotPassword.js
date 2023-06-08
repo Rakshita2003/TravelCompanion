@@ -1,6 +1,7 @@
 import React from 'react';
 import './ForgotPassword.css';
 import { Button } from '../components/Button.js';
+import { Link } from 'react-router-dom';
 
 const ForgotPassword = (props) => {
 return (
@@ -43,7 +44,7 @@ return (
                             }}
                         />
                     </span>
-                    <span className='coloor'>  <a href='/sign-up'> SignUp</a> </span>
+                    <span className='coloor'>  <Link to={'/needcompanion'}>SignUp</Link>  </span>
                 </span>
             </div>
         </div>
