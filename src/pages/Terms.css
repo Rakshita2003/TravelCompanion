@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background-color: rgba(252, 236, 221, 1);
+  /* padding: 0 0; */
+} 
+.h1{
+  text-align: center;
+  margin-top: 53px;
+  color:rgba(255, 102, 0, 1);
+}
+.picc,
+.tnc {
+  position: absolute;
+  width: 487px;
+  height: 636px;
+}
+.tnc {
+  top: calc(50% - 318px);
+  left: calc(50% - 243.5px);
+  object-fit: cover;
+}
+.picc {
+  top: 664px;
+  left: calc(50% + 233px);
+}
+.membershipIsReoccurringRec {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.useOfThe {
+  font-weight: 800;
+}
+.personalAndNonCommercialUs {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-lg);
+  color: var(--color-orangered-300);
+}
+.readOurPrivacyPolicyToSee {
+  margin: 0;
+}
+.membershipIsReoccurringContainer {
+  position: absolute;
+  height: 32.68%;
+  width: 68.94%;
+  top: 22.22%;
+  left: 0;
+  display: inline-block;
+}
+.theTermsTogetherWithTheP,
+.weReserveTheRightToSuspen {
+  font-size: var(--paragraph-2-size);
+  color: var(--color-black);
+}
+.weReserveTheRightToSuspen {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.theTermsTogetherWithTheP {
+  margin: 0;
+}
+.suspensionOrTerminationContainer {
+  position: absolute;
+  height: 36.18%;
+  width: 100%;
+  top: 63.82%;
+  left: 0;
+  display: inline-block;
+  font-size: var(--font-size-lg);
+  color: var(--color-orangered-300);
+}
+.blankLine13,
+.welcome {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  color: var(--color-orangered-300);
+}
+.blankLine13 {
+  color: var(--color-orange-200);
+}
+.pleaseReadThisCarefullyTh {
+  color: #fc0000;
+}
+.eligibility,
+.ifYouDoNotAgreeToTheseT,
+.pleaseReadThisCarefullyTh {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.ifYouDoNotAgreeToTheseT {
+  color: red;
+}
+.eligibility {
+  font-size: var(--font-size-lg);
+}
+.welcomeHelloContainer {
+  position: absolute;
+  top: calc(50% - 1071px);
+  left: calc(50% - 616.5px);
+  display: inline-block;
+  width: 1233px;
+  height: 502px;
+}
+.context12,
+.rules {
+  position: absolute;
+}
+.rules {
+  top: 162px;
+  left: 67px;
+  width: 1233px;
+  height: 2142px;
+  font-size: var(--paragraph-2-size);
+  color: var(--color-black);
+}
+.context12 {
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 2304px;
+}
+.termsAndCondition {
+  position: relative;
+  background-color: var(--color-antiquewhite-100);
+  backdrop-filter: blur(4px);
+  width: 100%;
+  height: 2304px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-orangered-300);
+  font-family: var(--font-montserrat);
+}

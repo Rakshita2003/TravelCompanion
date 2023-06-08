@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background: #FCECDD;
+  padding: 0 0;
+}
+
+.content {
+  width: 1200px;
+  height: 1000px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.shape {
+  top: 80px;
+  left: 80px;
+  width: 500px;
+  height: 480px;
+  opacity: 1;
+  position: absolute;
+}
+
+.rectangle {
+  position: absolute;
+  width: 1518px;
+  height: 500px;
+  left: 0px;
+  top: 600px;
+  
+}
+.content-logo {
+  top: 630px;
+  left: 99px;
+  width: 800px;
+  height: 150px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.buddy {
+  top: 0px;
+  left: 0px;
+  width: 365px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
+.support {
+  top: 0px;
+  left: 571.0682373046875px;
+  width: 247px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
+.fees{
+  top: 0px;
+  left: 1023.7802734375px;
+  width: 239px;
+  height: 168px;
+  position: absolute;
+  border-color: transparent;
+}
+.content-data {
+  top: 820px;
+  left: 135px;
+  width: 1322px;
+  height: 280px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.text1 {
+  top: 0px;
+  left: 979px;
+  width: 343px;
+  height: 205px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.text2 {
+  color: rgba(255, 102, 0, 1);
+  width: 343px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.text3 {
+  font-weight: 800;
+}
+.text4 {
+  color: rgba(255, 102, 0, 1);
+  font-weight: 700;
+}
+.text5 {
+  top: 0px;
+  left: 534.5751953125px;
+  width: 347.1778564453125px;
+  height: 230px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.text6 {
+  color: rgba(255, 102, 0, 1);
+  width: 347px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.text7 {
+  font-weight: 800;
+}
+.text8 {
+  color: rgba(255, 102, 0, 1);
+  font-weight: 700;
+}
+.text9 {
+  top: 0px;
+  left: 0px;
+  width: 347.1778564453125px;
+  height: 150.61691284179688px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.text10 {
+  color: rgba(255, 102, 0, 1);
+  width: 347px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.text11 {
+  font-weight: 800;
+}
+.text12 {
+  color: rgba(255, 102, 0, 1);
+  font-weight: 700;
+}
+.text0013 {
+  top: 90px;
+  color: rgb(255, 168, 47);
+  right: -240px;
+  width: 720px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  align-self: auto;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+.contact {
+  width: 1200px;
+  height: 700px;
+  display: flex;
+  padding: 0;
+  position: relative;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+  }
+  
+  .right-container{ 
+    background-color: orange;
+    padding:50px;
+    border-top-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+    top: 40px;
+    right: -200px;
+    width: 650px;
+    height: 600px;
+    position: absolute;
+    border-color: transparent;
+}
+
+  .contact-text {
+    top: 65px;
+    color: rgba(252, 236, 221, 0.9200000166893005);
+    left: 50px;
+    width: 600px;
+    height: auto;
+    position: absolute;
+    font-size: 30px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contact-text02 {
+    top: 20px;
+    left: 190px;
+    color: rgba(255, 102, 0, 1);
+    width: 400px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    align-self: auto;
+    font-style: ExtraBold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 800;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .contact-pic {
+    top: 80px;
+    left: 87px;
+    width: 500px;
+    height: 698px;
+    position: absolute;
+    border-color: transparent;
+  }
+
+  .form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    padding:20px;
+    margin:10px;
+  }
+  
+  .label{
+    color: rgba(41, 41, 41, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 68px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    padding:15px;
+  }
+  
+  .input1 {
+    top: 160px;
+    left: 100px;
+    width: 480px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: white;
+    border-color: transparent;
+  }
+    
+  .input2 {
+    top: 260px;
+    left: 100px;
+    width: 480px;
+    height: 45px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: white;
+    border-color: transparent;
+  }
+  .input3{
+    resize: none;
+    top: 370px;
+    left: 100px;
+    width: 480px;
+    height: 150px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: white;
+  }
+  
+  .btns {
+    border-color: transparent;
+    font-size: 22px;
+    background-color: rgba(255, 224, 93, 1);
+    width: 115px;
+    height: 50px;
+    position: absolute;
+    display: inline-block;
+    top: 530px;
+    left: 250px;
+  }

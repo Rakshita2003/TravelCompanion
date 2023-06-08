@@ -1,0 +1,621 @@
+.book-companion-details {
+    width: 1300px;
+    height: 1400px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(252, 236, 221, 0.5600000023841858);
+  }
+  
+  .book-companion-details-content {
+    top: 100px;
+    left: 110px;
+    width: 1200px;
+    height: 1380px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  
+  .book-companion-details-details {
+    top: -4px;
+    left: 86px;
+    width: 1100px;
+    height: 1400px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 12px;
+    background-color: rgba(255, 224, 93, 0.15000000596046448);
+  }
+  
+  .book-companion-details-frame422 {
+    top: 104px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 18px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  
+  .book-companion-details-input {
+    top: -3px;
+    width: 200px;
+    height: 54px;
+    display: flex;
+    position: relative;
+    align-self: stretch;
+    align-items: flex-start;
+    border-color: transparent;
+    left:1px;
+  }
+  
+  .book-companion-details-text001 {
+    left: 1px;
+    color: var(--dl-color-colors-gray);
+    width: 440px;
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 15px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  .book-companion-details-end {
+    top: 95px;
+    left: 574px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text002 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  
+  .book-companion-details-date {
+    top: 200px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text003 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-time {
+    top: 200px;
+    left: 574px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text004 {
+    color: rgba(244, 156, 25, 1);
+    width: 233px;
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  
+  .book-companion-details-id {
+    top: 300px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text005 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+ 
+  .book-companion-details-text000 {
+    top:200px;
+    left: 254px;
+    color: rgba(255, 102, 0, 1);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 40px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  .book-companion-details-text006 {
+    top:600px;
+    left: 254px;
+    color: rgba(255, 102, 0, 1);
+    height: auto;
+    position: absolute;
+    align-self: auto;
+    text-align: left;
+    line-height: 40px;
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+
+  .book-companion-details-fname {
+    top: 490px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text007 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-lname {
+    top: 490px;
+    left: 575px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text008 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  .book-companion-details-pnr {
+    top: 590px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text009 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-passport {
+    top: 590px;
+    left: 576px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text010 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-date1 {
+    top: 690px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text011 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-gender {
+    top: 686px;
+    left: 576px;
+    width: 440px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text012 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 38px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-contact {
+    top: 790px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text013 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+
+  .book-companion-details-language {
+    top: 890px;
+    left: 64px;
+    width: 340px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text015 {
+    color: rgba(244, 156, 25, 1);
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 38px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  .book-companion-details-instruction {
+    top: 990px;
+    left: 64px;
+    width: 1480px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    flex-direction: column;
+  }
+  
+  .book-companion-details-text016 {
+    color: rgba(244, 156, 25, 1);
+    width: 340px;
+    height: auto;
+    font-size: 24px;
+    align-self: auto;
+    font-style: Medium;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 500;
+    line-height: 32px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 8px;
+    text-decoration: none;
+  }
+  
+  .book-companion-details-enter {
+    top: 20px;
+    left: 510px;
+    color: rgba(255, 102, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 60px;
+    align-self: auto;
+    font-style: SemiBold;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  
+  .name1{
+    height: 55px;
+    width: 90%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .end {
+    height: 55px;
+    width: 130%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+
+  .flight {
+    height: 55px;
+    width: 118%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+
+  .time {
+    height: 55px;
+    width: 190%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .id {
+    height: 55px;
+    width: 118%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  .fname {
+    height: 55px;
+    width: 120%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .lname {
+    height: 55px;
+    width: 132%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .pnr {
+    height: 55px;
+    width: 120%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .pass {
+    height: 55px;
+    width: 132%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .dob {
+    height: 55px;
+    width: 120%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .gender {
+    height: 45px;
+    width: 452px;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  
+  .cont {
+    height: 55px;
+    width: 120%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+
+  .language {
+    height: 42px;
+    width: 970px;
+    background-color: white;
+    bottom: 2px;
+  }
+
+  .inst {
+    height: 185px;
+    width: 285%;
+    font-size: 23px;
+    bottom: 2px;
+  }
+  
+  .booksub {
+    top:  1395px;
+    left: 650px;
+    position: absolute;
+    display: inline-block;
+    width: 220px;
+    height: 50px;
+    background-color: rgba(255, 102, 0, 1);
+    border-color: transparent;
+    font-size: 22px;
+    }

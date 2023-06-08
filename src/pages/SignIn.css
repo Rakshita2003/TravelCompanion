@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  background-color: rgba(251, 236, 221, 1);
+  /* padding: 0 0; */
+} 
+.sign-in-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    background-color: #FCECDD;;
+}
+
+.sign-in-sign-in {
+    width: 100%;
+    height: 748px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(251, 214, 179, 0.3700000047683716);
+}
+
+.sign-in-frame450 {
+    top: 175px;
+    left: 74px;
+    width: 577px;
+    height: 515px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-radius: 12px;
+    background-color: rgba(255, 255, 255, 1);
+}
+
+.sign-in-text {
+    top: 32px;
+    left: 82px;
+    color: rgba(255, 102, 0, 1);
+    ;
+    height: auto;
+    position: absolute;
+    text-align: center;
+    line-height: 40px;
+}
+
+.sign-in-text02 {
+    top: 81px;
+    left: 140px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 28px;
+    font-stretch: normal;
+    text-decoration: none;
+
+}
+
+.sign-in-text04 {
+    top: 140px;
+    left: 32px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+}
+
+.sign-in-text05 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 24px;
+}
+
+.sign-in-text06 {
+    top: 248px;
+    left: 32px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 28px;
+}
+
+.sign-in-text07 {
+    color: rgba(0, 0, 0, 1);
+    font-size: 24px;
+}
+
+.sign-in-input {
+    top: 176px;
+    left: 32px;
+    width: 513px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-input-container-default {
+    top: 0px;
+    left: 0px;
+    width: 513px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-container1 {
+    top: 0px;
+    left: 0px;
+    width: 513px;
+    height: 56px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.699999988079071);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.sign-in-text10 {
+    top: 16px;
+    left: 16px;
+    color: var(--dl-color-colors-gray);
+    width: 481px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 24px;
+}
+
+.sign-in-input1 {
+    top: 284px;
+    left: 32px;
+    width: 513px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-input-container-default1 {
+    top: 0px;
+    left: 0px;
+    width: 513px;
+    height: 56px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-container2 {
+    top: 0px;
+    left: 0px;
+    width: 513px;
+    height: 56px;
+    position: absolute;
+    border-color: rgba(0, 0, 0, 0.699999988079071);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.sign-in-text12 {
+    top: 16px;
+    left: 16px;
+    color: var(--dl-color-colors-gray);
+    width: 481px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 24px;
+}
+
+.sign-in-text14 a {
+    top: 344px;
+    left: 32px;
+    color: rgba(255, 102, 0, 0.9700000286102295);
+    width: 481px;
+    height: auto;
+    position: absolute;
+    text-align: left;
+    line-height: 24px;
+}
+
+.sign-in-text16 {
+    top: 460px;
+    left: 142px;
+    color: rgba(0, 0, 0, 1);
+    width: 481px;
+    height: auto;
+    position: absolute;
+    font-size: 16px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Roboto;
+    font-weight: 400;
+    line-height: 24px;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.sign-in-text17 {
+    font-weight: 400;
+}
+
+.sign-in-text18 {
+    color: rgba(0, 0, 0, 1);
+}
+
+.sign-in-frame416 {
+    gap: -33px;
+    top: 58px;
+    left: 74px;
+    width: 477px;
+    display: flex;
+    position: absolute;
+    align-items: center;
+}
+
+.sign-in-logo {
+    width: 75px;
+    height: 70px;
+}
+
+.sign-in-logo1 {
+    width: 70px;
+    height: 70px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-text20 {
+    color: rgba(255, 102, 0, 1);
+    height: auto;
+    font-size: 44px;
+    font-style: SemiBold;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 600;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+}
+
+.sign-in-saly14 {
+    top: 147px;
+    left: 896px;
+    width: 408px;
+    height: 591px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+}
+
+.sign-in-saly141 {
+    top: 0px;
+    left: 0px;
+    width: 408px;
+    height: 501px;
+    position: absolute;
+}
+
+.boxx {
+   
+    height: 55px;
+    width: 462px;
+    font-size: 23px;
+    bottom: 2px;
+    padding: 4px;
+
+}
+
+
+.sibtn {
+    top:  390px;
+    left: 180px;
+    position: absolute;
+    display: inline-block;
+    width: 160px;
+    height: 50px;
+    background-color: rgba(255, 102, 0, 1);
+    border-color: transparent;
+    font-size: 22px;
+    }
+
+.color a {
+    color: rgba(255, 102, 0, 0.9700000286102295);
+    position: absolute;
+    left: 194px;
+}
+
+.ckb {
+    margin-bottom: 2px;
+    color: black;
+    position: absolute;
+    font-size: 18px;
+    top: 350px;
+    left: 336px;
+    -webkit-appearance: checkbox;
+    -moz-appearance: checkbox;
+    appearance: checkbox;
+    display: inline-block;
+    width: auto;
+}
+
+.check {
+    width: 20px;
+    height: 20px;
+
+}
