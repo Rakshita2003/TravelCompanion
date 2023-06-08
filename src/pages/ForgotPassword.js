@@ -44,7 +44,7 @@ return (
                             }}
                         />
                     </span>
-                    <span className='coloor'>  <Link to={'/needcompanion'}>SignUp</Link>  </span>
+                    <span className='coloor'>  <Link to={'/sign-up'}>SignUp</Link>  </span>
                 </span>
             </div>
         </div>
