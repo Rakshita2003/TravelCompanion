@@ -54,7 +54,7 @@ const SignIn = (props) => {
                                 }}
                             />
                         </span>
-                        <span className='color'>  <a href='/sign-up'> Sign Up</a> </span>
+                        <span className='color'>  <Link to={'/sign-up'}>Sign Up</Link> </span>
 
                     </span>
                 </div>

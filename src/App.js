@@ -15,6 +15,7 @@ import SignUp from './pages/SignUp';
 import NeedCompanion from './pages/NeedCompanion';
 import BookCompanion from './pages/BookCompanion';
 import Profile from './pages/Profile';
+import ForgotPassword from './pages/ForgotPassword';
 
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 
@@ -38,6 +39,7 @@ function App() {
         <Route path='/needcompanion' element={<NeedCompanion/>} />
         <Route path='/bookcompanion' element={<BookCompanion/>} />
         <Route path='/profile' element={<Profile/>} />
+        <Route path='/forgot' element={<ForgotPassword/>} />
       </Routes>
       </Router>
     </>

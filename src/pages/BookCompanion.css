@@ -515,6 +515,7 @@
     width: 90%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .end {
@@ -522,6 +523,7 @@
     width: 130%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
 
   .flight {
@@ -529,6 +531,7 @@
     width: 118%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
 
   .time {
@@ -536,6 +539,7 @@
     width: 190%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .id {
@@ -543,12 +547,14 @@
     width: 118%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   .fname {
     height: 55px;
     width: 120%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .lname {
@@ -556,6 +562,7 @@
     width: 132%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .pnr {
@@ -563,6 +570,7 @@
     width: 120%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .pass {
@@ -570,6 +578,7 @@
     width: 132%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .dob {
@@ -577,6 +586,7 @@
     width: 120%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .gender {
@@ -584,6 +594,7 @@
     width: 452px;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   
@@ -592,6 +603,7 @@
     width: 120%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
 
   .language {
@@ -599,6 +611,7 @@
     width: 970px;
     background-color: white;
     bottom: 2px;
+    background-color: white;
   }
 
   .inst {
@@ -606,6 +619,7 @@
     width: 285%;
     font-size: 23px;
     bottom: 2px;
+    background-color: white;
   }
   
   .booksub {

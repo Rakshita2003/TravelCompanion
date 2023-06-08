@@ -1,19 +1,20 @@
 import React from 'react';
 import '../App.css';
 import "./Services.css";
+import { Link } from 'react-router-dom';
 
 const Services = () => {
   return (
     <div className="services">
       <div className="need">
-        <a href="/needcompanion">
+      <Link to={'/needcompanion'}>
         <button className='need-companion' >NEED COMPANION</button>
-        </a>
+        </Link>
       </div>
       <div className="be">
-      <a href="/bookcompanion">
+      <Link to={'/bookcompanion'}>
         <button className='be-companion'>BE A COMPANION</button>
-        </a>
+        </Link>
       </div>
       </div>
   );
